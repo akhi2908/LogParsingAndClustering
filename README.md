@@ -13,6 +13,7 @@ This would reveal the underlying patterns in these logs and help correlate event
 ### Files needed
 
   LogParser/.. : Extracting the textual structure of logs
+  
   LogCluster/Message_Log_Analytics.ipynb 
 
 ### Prerequisites
@@ -53,7 +54,7 @@ from math import sqrt
 
 * [Extracting the textual and temporal structure of supercomputing logs](https://www-users.cs.umn.edu/~chandra/papers/hipc09/paper.pdf) [(pdf)](https://ieeexplore.ieee.org/document/5433202)
 
-* [Logparser toolkit] (https://logparser.readthedocs.io/en/latest/README.html)
+* [Logparser toolkit](https://logparser.readthedocs.io/en/latest/README.html)
 
 * [DRAIN: Fixed Depth Tree Parsing Method](http://jmzhu.logpai.com/pub/pjhe_icws2017.pdf)
 
