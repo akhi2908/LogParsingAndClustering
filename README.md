@@ -51,4 +51,9 @@ from math import sqrt
 
 ## References
 
-* [Extracting the textual and temporal structure of supercomputing logs](https://www-users.cs.umn.edu/~chandra/papers/hipc09/paper.pdf) [pdf](https://ieeexplore.ieee.org/document/5433202)
+* [Extracting the textual and temporal structure of supercomputing logs](https://www-users.cs.umn.edu/~chandra/papers/hipc09/paper.pdf) [(pdf)](https://ieeexplore.ieee.org/document/5433202)
+
+* [Logparser toolkit] (https://logparser.readthedocs.io/en/latest/README.html)
+
+* [DRAIN: Fixed Depth Tree Parsing Method](http://jmzhu.logpai.com/pub/pjhe_icws2017.pdf)
+
