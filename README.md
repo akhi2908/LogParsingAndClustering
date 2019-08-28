@@ -41,8 +41,6 @@ import re
 
 from sklearn.metrics import mean_squared_error
 
-from statsmodels.tsa.holtwinters import ExponentialSmoothing
-
 from math import sqrt
 ```
 
